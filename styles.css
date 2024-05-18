@@ -1,0 +1,18 @@
+body {
+    background-color: #5f5fd6;
+    color: white;
+    font-family: 'Tahoma', 'Times New Roman', sans-serif;
+}
+
+a {
+    color: white;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.ingredients {
+    background-color:#5fd6d0;
+    font-weight: bold;
+}
